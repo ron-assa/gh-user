@@ -1,0 +1,7 @@
+{
+  "name": "gh-user",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
